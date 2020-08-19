@@ -3,8 +3,8 @@ package config
 import (
 	"encoding/json"
 
-	"github.com/songxuexian/agollo/core/cons"
-	"github.com/songxuexian/agollo/core/util"
+	"github.com/sixgoatsh/agollo/core/cons"
+	"github.com/sixgoatsh/agollo/core/util"
 )
 
 type Config struct {

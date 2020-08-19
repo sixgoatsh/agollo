@@ -6,7 +6,7 @@ import (
 
 	"github.com/spf13/viper"
 
-	remote "github.com/songxuexian/agollo/viper-remote"
+	remote "github.com/sixgoatsh/agollo/viper-remote"
 )
 
 func main() {

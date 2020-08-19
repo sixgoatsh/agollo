@@ -6,7 +6,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/songxuexian/agollo/core/config"
+	"github.com/sixgoatsh/agollo/core/config"
 )
 
 func TestOptions(t *testing.T) {

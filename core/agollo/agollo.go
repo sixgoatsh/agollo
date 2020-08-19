@@ -10,11 +10,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/songxuexian/agollo/core/client"
-	"github.com/songxuexian/agollo/core/client/balancer"
-	"github.com/songxuexian/agollo/core/config"
-	"github.com/songxuexian/agollo/core/options"
-	"github.com/songxuexian/agollo/pkg/util/str"
+	"github.com/sixgoatsh/agollo/core/client"
+	"github.com/sixgoatsh/agollo/core/client/balancer"
+	"github.com/sixgoatsh/agollo/core/config"
+	"github.com/sixgoatsh/agollo/core/options"
+	"github.com/sixgoatsh/agollo/pkg/util/str"
 )
 
 var (

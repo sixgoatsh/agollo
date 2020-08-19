@@ -4,11 +4,11 @@ import (
 	"fmt"
 	"net/url"
 
-	"github.com/songxuexian/agollo/core/auth"
-	"github.com/songxuexian/agollo/core/config"
-	"github.com/songxuexian/agollo/core/util"
-	"github.com/songxuexian/agollo/pkg/rest"
-	"github.com/songxuexian/agollo/pkg/util/uri"
+	"github.com/sixgoatsh/agollo/core/auth"
+	"github.com/sixgoatsh/agollo/core/config"
+	"github.com/sixgoatsh/agollo/core/util"
+	"github.com/sixgoatsh/agollo/pkg/rest"
+	"github.com/sixgoatsh/agollo/pkg/util/uri"
 )
 
 type ICacheClient interface {

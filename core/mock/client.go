@@ -1,8 +1,8 @@
 package mock
 
 import (
-	"github.com/songxuexian/agollo/core/client"
-	"github.com/songxuexian/agollo/core/config"
+	"github.com/sixgoatsh/agollo/core/client"
+	"github.com/sixgoatsh/agollo/core/config"
 )
 
 type CacheClient struct {

@@ -11,10 +11,10 @@ import (
 	"github.com/spf13/viper"
 	crypt "github.com/xordataexchange/crypt/config"
 
-	"github.com/songxuexian/agollo/core/agollo"
-	"github.com/songxuexian/agollo/core/client"
-	"github.com/songxuexian/agollo/core/client/balancer"
-	"github.com/songxuexian/agollo/core/options"
+	"github.com/sixgoatsh/agollo/core/agollo"
+	"github.com/sixgoatsh/agollo/core/client"
+	"github.com/sixgoatsh/agollo/core/client/balancer"
+	"github.com/sixgoatsh/agollo/core/options"
 )
 
 var (

@@ -7,9 +7,9 @@ import (
 
 	"gopkg.in/go-playground/assert.v1"
 
-	"github.com/songxuexian/agollo/core/client"
-	"github.com/songxuexian/agollo/core/mock"
-	"github.com/songxuexian/agollo/pkg/log"
+	"github.com/sixgoatsh/agollo/core/client"
+	"github.com/sixgoatsh/agollo/core/mock"
+	"github.com/sixgoatsh/agollo/pkg/log"
 )
 
 func TestAutoFetchBalancer(t *testing.T) {

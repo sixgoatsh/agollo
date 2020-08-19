@@ -5,9 +5,9 @@ import (
 	"os"
 	"time"
 
-	"github.com/songxuexian/agollo/core/agollo"
-	"github.com/songxuexian/agollo/core/options"
-	"github.com/songxuexian/agollo/pkg/log"
+	"github.com/sixgoatsh/agollo/core/agollo"
+	"github.com/sixgoatsh/agollo/core/options"
+	"github.com/sixgoatsh/agollo/pkg/log"
 )
 
 func main() {

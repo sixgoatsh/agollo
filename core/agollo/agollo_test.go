@@ -13,12 +13,12 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/songxuexian/agollo/core/client"
-	"github.com/songxuexian/agollo/core/client/balancer"
-	"github.com/songxuexian/agollo/core/config"
-	"github.com/songxuexian/agollo/core/mock"
-	"github.com/songxuexian/agollo/core/options"
-	"github.com/songxuexian/agollo/pkg/log"
+	"github.com/sixgoatsh/agollo/core/client"
+	"github.com/sixgoatsh/agollo/core/client/balancer"
+	"github.com/sixgoatsh/agollo/core/config"
+	"github.com/sixgoatsh/agollo/core/mock"
+	"github.com/sixgoatsh/agollo/core/options"
+	"github.com/sixgoatsh/agollo/pkg/log"
 )
 
 type testCase struct {

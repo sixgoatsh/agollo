@@ -5,8 +5,8 @@ import (
 	"net"
 	"os"
 
-	"github.com/songxuexian/agollo/core/cons"
-	"github.com/songxuexian/agollo/pkg/util/uri"
+	"github.com/sixgoatsh/agollo/core/cons"
+	"github.com/sixgoatsh/agollo/pkg/util/uri"
 )
 
 func GetLocalIP() string {

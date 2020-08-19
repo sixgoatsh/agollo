@@ -1,4 +1,4 @@
-module github.com/songxuexian/agollo
+module github.com/sixgoatsh/agollo
 
 go 1.14
 

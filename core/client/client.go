@@ -1,7 +1,7 @@
 package client
 
 import (
-	"github.com/songxuexian/agollo/core/config"
+	"github.com/sixgoatsh/agollo/core/config"
 )
 
 type IApolloClient interface {

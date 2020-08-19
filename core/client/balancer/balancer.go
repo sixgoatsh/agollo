@@ -4,10 +4,10 @@ import (
 	"errors"
 	"time"
 
-	"github.com/songxuexian/agollo/core/client"
-	"github.com/songxuexian/agollo/core/config"
-	"github.com/songxuexian/agollo/core/util"
-	"github.com/songxuexian/agollo/pkg/log"
+	"github.com/sixgoatsh/agollo/core/client"
+	"github.com/sixgoatsh/agollo/core/config"
+	"github.com/sixgoatsh/agollo/core/util"
+	"github.com/sixgoatsh/agollo/pkg/log"
 )
 
 var (
